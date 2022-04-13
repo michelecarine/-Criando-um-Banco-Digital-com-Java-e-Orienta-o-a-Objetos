@@ -39,7 +39,7 @@ javac BancoDigital.java
 
 ### **Autor**
 
-- **Alex Rogério** - [michele-m](https://github.com/michelemeiira)
+- **Michele Meira** - [michele-m](https://github.com/michelemeiira)
 
 ### Palavras-chave
 
