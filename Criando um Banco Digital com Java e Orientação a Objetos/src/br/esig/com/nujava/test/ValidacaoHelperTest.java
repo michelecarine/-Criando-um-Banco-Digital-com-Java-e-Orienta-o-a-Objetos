@@ -16,8 +16,8 @@ import br.esig.com.nujava.negocio.ValidacaoHelper;
 
 /** Esta entendidade testa as validações da {@link Conta}.
  * 
- * @author Alex Rogério
- * @since 17/08/2021
+ * @authora Michele Meira
+ * @since 16/05/1992
  * @version 1.0
   */
 public class ValidacaoHelperTest {
