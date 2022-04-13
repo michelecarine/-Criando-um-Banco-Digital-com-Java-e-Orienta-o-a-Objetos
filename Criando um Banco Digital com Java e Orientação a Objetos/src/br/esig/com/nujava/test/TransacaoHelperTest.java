@@ -9,8 +9,8 @@ import br.esig.com.nujava.negocio.TransacaoHelper;
 
 /** Esta entendidade testa a {@link TransacaoHelper}.
  * 
- * @author Alex Rogério
- * @since 17/08/2021
+ * @authora Michele Meira
+ * @since 16/05/21992
  * @version 1.0
   */
 public class TransacaoHelperTest {
