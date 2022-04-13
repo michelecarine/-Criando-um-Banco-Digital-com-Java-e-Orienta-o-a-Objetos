@@ -8,8 +8,8 @@ import br.esig.com.nujava.dominio.Conta;
  * 
  * Uma operação deve ser saque, depósito e transferência <p><br />
  * 
- * @author Alex Rogério
- * @since 17/08/2021
+ * @authora Michele Meira
+ * @since 16/05/1992
  * @version 1.0
  */
 public interface Operacoes {
